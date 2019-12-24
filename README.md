@@ -1,2 +1,2 @@
 # exerciseRepository
-练习仓库
+python 练习仓库
